@@ -10,4 +10,4 @@ artifacts:
     -favicon.ico
     -TapanJoshi-Resume.pdf
     -styles/main.css
-    images/*
+    -images/*
